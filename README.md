@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Bruno Gomes
-- 👀 I’m interested in Web Development, currently working as PHP Full Stack dev.
-- 🌱 Updating my knowledge in Laravel 9 with PHP 8, as well as ReactJS and VueJS.
-- 📫 How to reach me: @brunoggdev in all media, as well as gmail (brunoggdev@gmail.com).
+Hi, I'm Bruno Gomes, full-stack web developer, focused on PHP for now, with three years of experience. 
+You can reach me through my email (brunoggdev@gmail.com) at anytime, and thank you for cheking out! 
 
 <!---
 BrunoggDev/BrunoggDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
