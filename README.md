@@ -1,4 +1,4 @@
-- Hi, I'm Bruno Gomes, full-stack web developer, focused on PHP for now, with three years of experience. 
+- Hi, I'm Bruno Gomes, full-stack web developer, focused on PHP for now.
 - You can reach me through my email (brunoggdev@gmail.com) at anytime, and thank you for cheking out! 
 
 <!---
